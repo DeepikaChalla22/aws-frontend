@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/aws-frontend/static/css/main.db798329.css",
-    "main.js": "/aws-frontend/static/js/main.cc4c7eeb.js",
-    "static/js/787.cda612ba.chunk.js": "/aws-frontend/static/js/787.cda612ba.chunk.js",
-    "index.html": "/aws-frontend/index.html",
-    "main.db798329.css.map": "/aws-frontend/static/css/main.db798329.css.map",
-    "main.cc4c7eeb.js.map": "/aws-frontend/static/js/main.cc4c7eeb.js.map",
-    "787.cda612ba.chunk.js.map": "/aws-frontend/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/recipee-book/static/css/main.7796c1d5.css",
+    "main.js": "/recipee-book/static/js/main.33c691a9.js",
+    "static/js/787.cda612ba.chunk.js": "/recipee-book/static/js/787.cda612ba.chunk.js",
+    "static/media/a.jpg": "/recipee-book/static/media/a.b6960cefdae926af7bea.jpg",
+    "index.html": "/recipee-book/index.html",
+    "main.7796c1d5.css.map": "/recipee-book/static/css/main.7796c1d5.css.map",
+    "main.33c691a9.js.map": "/recipee-book/static/js/main.33c691a9.js.map",
+    "787.cda612ba.chunk.js.map": "/recipee-book/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db798329.css",
-    "static/js/main.cc4c7eeb.js"
+    "static/css/main.7796c1d5.css",
+    "static/js/main.33c691a9.js"
   ]
 }
